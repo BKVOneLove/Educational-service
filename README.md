@@ -1,4 +1,4 @@
-#Educational-stats
+# Educational-stats
 Education stats - онлайн-сервис для получения статистики успеваемости студентов.
 
 Стек технологий: Python, FastAPI, PostgreSQL, React.js
